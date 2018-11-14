@@ -1,0 +1,13 @@
+D:\Projects\internet_usage_stats\internet_usage_stats\bin\Debug\internet_usage_stats.exe
+D:\Projects\internet_usage_stats\internet_usage_stats\bin\Debug\internet_usage_stats.pdb
+D:\Projects\internet_usage_stats\internet_usage_stats\obj\Debug\internet_usage_stats.csprojResolveAssemblyReference.cache
+D:\Projects\internet_usage_stats\internet_usage_stats\obj\Debug\internet_usage_stats.Form1.resources
+D:\Projects\internet_usage_stats\internet_usage_stats\obj\Debug\internet_usage_stats.Properties.Resources.resources
+D:\Projects\internet_usage_stats\internet_usage_stats\obj\Debug\internet_usage_stats.csproj.GenerateResource.Cache
+D:\Projects\internet_usage_stats\internet_usage_stats\obj\Debug\internet_usage_stats.exe
+D:\Projects\internet_usage_stats\internet_usage_stats\obj\Debug\internet_usage_stats.pdb
+D:\Projects\internet_usage_stats\internet_usage_stats\obj\Debug\internet_usage_stats.TrustInfo.xml
+D:\Projects\internet_usage_stats\internet_usage_stats\bin\Debug\internet_usage_stats.exe.manifest
+D:\Projects\internet_usage_stats\internet_usage_stats\bin\Debug\internet_usage_stats.application
+D:\Projects\internet_usage_stats\internet_usage_stats\obj\Debug\internet_usage_stats.exe.manifest
+D:\Projects\internet_usage_stats\internet_usage_stats\obj\Debug\internet_usage_stats.application
